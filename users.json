@@ -1,0 +1,20 @@
+{
+    "hrishik": {
+        "email": "hrishikmanoj2003@gmail.com",
+        "password": "scrypt:32768:8:1$7zVRCKmFQJXfXFeG$0fde4aef08569af5274471ddef5311bb45b5a34ef8e4b317e9259a24e8dfa8cee494c17653d5bc449fccf2778bc0ca545758c23e3a0717cb32a0c8e031f88c5f",
+        "number": "8347136133",
+        "address": "mumbai"
+    },
+    "username": {
+        "email": "user@gmail.com",
+        "password": "scrypt:32768:8:1$tU0GyYqHwEVylpIS$e73ff5b3595ee94f08a718230c40148f10fb02314aa462dc1a037e08b4887928734e043fa58937d0cf45d6518b5e5c87c226c1fa05f809414f3b5049066d22c1",
+        "number": "1234567",
+        "address": "mumbai"
+    },
+    "murugan": {
+        "email": "murugan19777@gmail.com",
+        "password": "scrypt:32768:8:1$wFxgfKVXskHMH79G$87fd2183e5efd19e9d3bb0e09f788773cb194b75df3d82a2dac574e01bcdb628addb9377002982f5a4f48b5e3274f7830d01881792d7ae902b6c4cae7fc86900",
+        "number": "12345678",
+        "address": "mumbai"
+    }
+}
